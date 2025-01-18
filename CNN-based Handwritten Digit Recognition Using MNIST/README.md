@@ -141,6 +141,16 @@ for i in range(5):
     plt.show()
 ```
 
+## Kết quả
+
+Mô hình đạt được độ chính xác cao trên bộ dữ liệu MNIST sau khi huấn luyện, với khả năng nhận diện chính xác các chữ số viết tay. Đồ án cũng cung cấp các báo cáo phân loại chi tiết về hiệu suất của mô hình.
+
+## Tài liệu tham khảo
+
+Nền tảng đầu cuối dành cho học máy [TensorFlow](https://www.tensorflow.org/)
+
+Bộ dữ liệu [MNIST](http://yann.lecun.com/exdb/mnist/)
+
 ## Tác giả
 
 Họ và tên: Lê Hoàng Gia Đại
