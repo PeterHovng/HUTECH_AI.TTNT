@@ -90,24 +90,24 @@ Mô hình đạt độ chính xác cao trên tập kiểm thử MNIST và có kh
 
 ## Thông tin liên hệ
 
-Họ và tên: Lê Hoàng Gia Đại
-Mã số sinh viên: 2280618445
+Họ và tên: Lê Hoàng Gia Đại\
+Mã số sinh viên: 2280618445\
 Lớp: 22DTHG3\
 Email: [leehoanggiadai@gmail.com](mailto\:leehoanggiadai@gmail.com)
 
-Họ và tên: Nguyễn Đình Bảo
-Mã số sinh viên: 2280600205
+Họ và tên: Nguyễn Đình Bảo\
+Mã số sinh viên: 2280600205\
 Lớp: 22DTHG3\
 Email: [bbaaoob52@gmail.com](mailto\:bbaaoob52@gmail.com)
 
-Họ và tên: Nguyễn Đức Thiện
-Mã số sinh viên: 2280603048
+Họ và tên: Nguyễn Đức Thiện\
+Mã số sinh viên: 2280603048\
 Lớp: 22DTHG3\
 Email: [nguyenducthienlq1@gmail.com](mailto\:nguyenducthienlq1@gmail.com)
 
 ## Giảng viên hướng dẫn
 
-Họ và tên: TS. Huỳnh Quốc Bảo 
+Họ và tên: TS. Huỳnh Quốc Bảo\
 Email: [hq.bao@hutech.edu.vn](mailto\:hq.bao@hutech.edu.vn)
 
 ## Giấy phép
