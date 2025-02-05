@@ -1,4 +1,4 @@
-# Dự án: Phát hiện Ngôn ngữ Thù hẬn trong Tiếng Việt
+# Dự án: Phát hiện ngôn ngữ thù hận trong Tiếng Việt
 Dự án này nhằm phát triển một hệ thống nhận diện ngôn ngữ thù hẬn (“hate speech”) trong tiếng Việt. Dự án được thực hiện bằng ngôn ngữ Python trong Google Colab và ngôn ngữ Python để xây dựng mô hình huấn luyện từ dữ liệu trong file .xlsx lưu trên Google Drive.
 
 ## Tính năng chính
